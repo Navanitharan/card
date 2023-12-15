@@ -1,0 +1,21 @@
+.row{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.box-part{
+    background-color: antiquewhite;
+    margin: 20px;
+    height: 200px;
+    padding: 10px;
+}
+i{
+    color: blue;
+}
+.a{
+    text-decoration: underline;
+}
+.fa-brands{
+    font-size: 2rem;
+}
